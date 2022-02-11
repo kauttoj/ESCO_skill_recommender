@@ -70,13 +70,12 @@ if merge_broader_skills:
 def compare_and_print(sims,y,top_n,utterance,name):
     sims = np.array(sims)
     inds = np.argsort(sims)
-    print('TOP-%i similarities of type "%s" for utterance "%s":' % (top_n,name,utterance))
+    print('TOP-%i similarities of type "%s" for utterance "%s":  ' % (top_n,name,utterance))
     for i, ind in enumerate(range(top_n)):
-        print('  %i (%.4f): %s' % (i + 1, sims[inds[-(ind + 1)]], y[inds[-(ind + 1)]]))
+        print('  %i (%.4f): %s  ' % (i + 1, sims[inds[-(ind + 1)]], y[inds[-(ind + 1)]]))
 
 # remove stop words
 def remove_stops(s,stopw):
-
     s = "".join([x for x in s if (x not in string.punctuation)])
     s = s.split(' ')
     s = [x for x in s if (x.lower() not in stopw)]
