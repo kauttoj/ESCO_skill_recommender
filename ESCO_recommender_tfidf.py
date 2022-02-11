@@ -14,7 +14,6 @@ use_common_model = True # train one model for all data instead of separate ones
 test_phrases = {'fin':
                     [
                         'ohjelmointia javalla ja pythonilla. Projektinhallintaa ja johtamista.',
-                        'Jakaa postia',
                         'olen ollut postinjakajana ja lajittelijana.',
                         "Osaan auttaa pyörätuolin käytössä",
                         "Olen ollut kirjakaupassa harjoittelijana",
@@ -22,7 +21,7 @@ test_phrases = {'fin':
                         'työskentelen tarjoilijana ravintolassa ja valmistan ruokaa',
                         'asiantuntijaa, joka vastaa projektitoiminnan työkaluista, projektin- ja ohjelmajohtamisprosessista sekä niihin liittyvästä kehittämisestä.'
                     ],
-            'eng': ['deliver mail','organize delivery of mail in region','helping with wheelchair patients','worked as a waiter in a restaurant. Prepare food and serving.']
+            'eng': ['prepare, deliver and organize mail','helping with wheelchair patients','taking care of small children, feeding, clothing and playing','worked as a waiter in a restaurant, also prepared food and serving it.']
 }
 
 # tyomarkkinatori ehdotetut ammatit 'Osaan auttaa pyörätuolin käytössä':
@@ -176,6 +175,6 @@ for language in test_phrases.keys():
         #compare_and_print(sims_skill,y_skill,top_n,utterance,'skill')
         compare_and_print(sims_occupation,y_occupation,print_top_n,utterance_raw,'occupations')
         compare_and_print(sims_skill1, y_skill,print_top_n, utterance_raw,'targeted skills')
-        compare_and_print(sims_parent,y_parent,print_top_n, utterance_raw,'parent skills')
+        #compare_and_print(sims_parent,y_parent,print_top_n, utterance_raw,'parent skills')
 
 print('\nAll done!')
