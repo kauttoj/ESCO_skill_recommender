@@ -4,7 +4,6 @@ Experiments with ESCO to suggest skills and occupations in Finnish and English.
 The simplest approach is classic TF-IDF that applies hierachical structure of ESCO, i.e., occupation and broad skill are associated with lower-level skills. Despite simplicity, we get surprisingly good results as seen below. This is output of the example.
 Here "occupations" are most matching occupations and "targeted skills" most matched skills, either guided by occupations or not (depends on threshold level which is here 0.35). 
 
-
 ```
 ---------------- LANGUAGE = fin -------------------
 
@@ -176,3 +175,10 @@ TOP-6 similarities of type "targeted skills" for utterance "worked as a waiter i
   6 (0.1415): supervise food quality  
 
 ```
+
+16.4.2022:
+Added a FinBERT model trained with PARLAI module. In order to use this, install PARLAI and download the agent pickle from the following link: https://1drv.ms/u/s!Ai_vcSNOnJbkiFdszi4aSmQmKDkE?e=B1wA5T
+This is somewhat better than TF-IDF (as one might expect). Still not great and we need to rely on those manually adjusted thresholds to guide recommendations.
+
+I also modified the test scripts so that I can process longer texts. Idea is that the text is split in sentences which are processed individually. Occupations are applied to limit the search over all sentences.
+
