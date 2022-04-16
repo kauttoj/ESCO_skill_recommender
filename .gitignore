@@ -1,0 +1,6 @@
+parlai/
+.idea/
+BERT/
+~$ESCO_augmented_occupations.xlsx
+~$ESCO_augmented_skilldata.xlsx
+parlai_agent_fin.pickle

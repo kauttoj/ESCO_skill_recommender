@@ -1,0 +1,146 @@
+2022-04-04 16:49:32,510 WARNING  | [ Executing eval mode with a common set of fixed candidates (n = 13891). ]
+2022-04-04 16:49:36,442 WARNING  | [ Executing eval mode with a common set of fixed candidates (n = 3005). ]
+
+Input: ohjelmointia javalla ja pythonilla.
+...skills output 1 (93.099): Java (tietokoneohjelmointi)
+...skills output 2 (92.750): kehittää avoimen lähdekoodin ohjelmistoja
+...skills output 3 (92.551): käyttää automaattista ohjelmointia
+...skills output 4 (92.330): Eclipse (integroidun kehitysympäristön ohjelmisto)
+...skills output 5 (92.304): CAD-ohjelmisto
+...occupations output 1 (78.635): ohjelmoija, työkalujen ja prosessien numeerinen ohjaus
+...occupations output 2 (73.236): sulautettujen järjestelmien ohjelmistokehittäjä
+...occupations output 3 (73.019): podiatri
+...occupations output 4 (71.860): pääsommelier
+...occupations output 5 (71.567): ohjelmistoarkkitehti
+
+Input: Projektinhallintaa ja johtamista.
+...skills output 1 (125.617): projektinhallinta
+...skills output 2 (123.477): Lean-projektinhallinta
+...skills output 3 (122.409): suorittaa projektinhallintaa
+...skills output 4 (121.212): ketterä projektinhallinta
+...skills output 5 (116.902): toteuttaa hankkeisiin liittyviä toimintoja
+...occupations output 1 (104.189): projektiassistentti
+...occupations output 2 (101.342): hankejohtaja, rakennustoiminta
+...occupations output 3 (99.326): hankepäällikkö
+...occupations output 4 (98.208): työnjohtaja, rakennustoiminta
+...occupations output 5 (96.466): työnjohtaja, rautarakentaminen
+
+Input: ohjelmointia javalla ja pythonilla. Lisäksi osaan projektinhallintaa ja johtamista.
+...skills output 1 (117.214): ketterä projektinhallinta
+...skills output 2 (116.926): Lean-projektinhallinta
+...skills output 3 (114.912): projektin konfiguraationhallinta
+...skills output 4 (111.738): projektinhallinta
+...skills output 5 (111.419): ICT-projektinhallinta
+...occupations output 1 (108.532): ohjelmoija, työkalujen ja prosessien numeerinen ohjaus
+...occupations output 2 (97.769): Lean-johtaja
+...occupations output 3 (96.360): integrointivastaava
+...occupations output 4 (95.450): ICT-projektipäällikkö
+...occupations output 5 (94.130): älykkäiden ICT-järjestelmien suunnittelija
+
+Input: olen ollut postinjakajana ja lajittelijana.
+...skills output 1 (101.999): toimittaa postia
+...skills output 2 (100.535): jakaa postia yrityksen eri osastoille
+...skills output 3 (99.628): myydä postin tuotteita
+...skills output 4 (99.465): käsitellä postia
+...skills output 5 (94.387): järjestää postilähetysten toimittaminen
+...occupations output 1 (94.973): postitoimihenkilö
+...occupations output 2 (94.208): postinlajittelija
+...occupations output 3 (92.236): postinkantaja
+...occupations output 4 (88.715): tavaranlähettäjä, jakelukeskus
+...occupations output 5 (85.594): jakelujohtaja, jätteet ja jäännökset
+
+Input: Osaan auttaa pyörätuolin käytössä
+...skills output 1 (89.944): avustaa kävijöitä
+...skills output 2 (85.268): antaa asiakkaille polkupyöriä koskevia neuvoja
+...skills output 3 (84.881): käyttää tukivälineitä selkärangan tukemiseen
+...skills output 4 (82.456): avustaa liikuntarajoitteisia matkustajia
+...skills output 5 (81.774): avustaa huvipuiston asiakkaita
+...occupations output 1 (73.250): palveluasumisyksikön ohjaaja
+...occupations output 2 (72.884): podiatrin avustaja
+...occupations output 3 (72.299): kuntoutustukihenkilö
+...occupations output 4 (71.379): käymiskellarin hoitaja
+...occupations output 5 (70.293): polkupyörälähetti
+
+Input: autan potilaita liikkumisessa ja pöyrätuolin kanssa
+...skills output 1 (102.041): avustaa liikuntarajoitteisia matkustajia
+...skills output 2 (97.707): avustaa potilaita kuntoutuksessa
+...skills output 3 (96.599): neuvoa potilaita apuvälineiden käytössä
+...skills output 4 (95.402): avustaa kävijöitä
+...skills output 5 (94.708): tukea potilasta fysioterapiahoitojen päättyessä
+...occupations output 1 (78.281): podiatrin avustaja
+...occupations output 2 (77.504): fysioterapeutin avustaja
+...occupations output 3 (73.403): kuntoutustukihenkilö
+...occupations output 4 (70.969): vaihtoehtohoitaja
+...occupations output 5 (69.478): käymiskellarin hoitaja
+
+Input: Olen ollut kirjakaupassa harjoittelijana
+...skills output 1 (106.936): avustaa opiskelijoita kirjaston käytössä
+...skills output 2 (104.331): osallistua kirjamessuille
+...skills output 3 (103.316): osallistua lukuharjoituksiin
+...skills output 4 (101.985): auttaa kirjallisuustapahtumissa
+...skills output 5 (100.668): myydä kirjoja
+...occupations output 1 (94.148): johtaja, kirjakauppa
+...occupations output 2 (93.068): kirjamyyjä
+...occupations output 3 (92.072): myymäläapulainen
+...occupations output 4 (91.941): johtaja, polkupyörien erikoisliike
+...occupations output 5 (91.391): työnjohtaja, kirjapaino
+
+Input: Työskentelin ennen päiväkodissa, niin ja koulun keittiöllä
+...skills output 1 (85.106): työskennellä kuuman typen parissa
+...skills output 2 (81.094): työskennellä epätasaisilla pinnoilla
+...skills output 3 (80.009): toimia yksittäisen työntekijän ohjaajana
+...skills output 4 (79.313): päiväkodin käytännöt
+...skills output 5 (78.352): työskennellä ammattikoulussa
+...occupations output 1 (72.085): päihdetyöntekijä
+...occupations output 2 (70.326): keittiömestari, yksityiskoti
+...occupations output 3 (69.778): työnjohtaja, jätehuolto
+...occupations output 4 (68.710): jätteiden kerääjä
+...occupations output 5 (67.692): lähihoitaja
+
+Input: päiväkodissa hoitajana ja ohjaajana, sekä avustin keittiötä
+...skills output 1 (73.366): toimia yksittäisen työntekijän ohjaajana
+...skills output 2 (72.660): antaa kotihoitoa
+...skills output 3 (70.712): päiväkodin käytännöt
+...skills output 4 (68.866): järjestää potilaiden kotihoitoa
+...skills output 5 (68.500): tukea sosiaalipalveluiden käyttäjiä kotona asumisessa
+...occupations output 1 (76.989): kodinhoitaja
+...occupations output 2 (76.226): löytöeläinkodin hoitaja
+...occupations output 3 (75.642): keittiöavustaja
+...occupations output 4 (75.569): keittiömestari, yksityiskoti
+...occupations output 5 (74.360): palveluasumisyksikön ohjaaja
+
+Input: työskentelen tarjoilijana ravintolassa ja valmistan ruokaa
+...skills output 1 (99.448): vastata ravintolan toiminnasta
+...skills output 2 (95.235): valmistella ravintola palvelukuntoon
+...skills output 3 (93.070): tarjoilla ruokaa pöytiin
+...skills output 4 (93.047): luovuttaa ruoanvalmistustila seuraavalle vuorolle
+...skills output 5 (92.609): tarjota ruokaa ja juomia
+...occupations output 1 (103.824): tarjoilija
+...occupations output 2 (103.379): ravintolapäällikkö
+...occupations output 3 (103.375): ravintolaisäntä/ravintolaemäntä
+...occupations output 4 (100.817): ateriapalvelun työntekijä
+...occupations output 5 (97.361): pikaravintolan työntekijä
+
+Input: asiantuntijaa, joka vastaa projektitoiminnan työkaluista, projektin- ja ohjelmajohtamisprosessista sekä niihin liittyvästä kehittämisestä.
+...skills output 1 (111.020): palkata taiteellista henkilöstöä
+...skills output 2 (110.521): Lean-projektinhallinta
+...skills output 3 (110.374): projektinhallinta
+...skills output 4 (109.269): palkata henkilöresursseja
+...skills output 5 (109.199): toteuttaa hankkeisiin liittyviä toimintoja
+...occupations output 1 (123.574): projektiassistentti
+...occupations output 2 (119.033): avustava hankepäällikkö
+...occupations output 3 (116.191): hankepäällikkö
+...occupations output 4 (115.172): EU-hankekoordinaattori
+...occupations output 5 (113.597): koordinaattori, työllisyysohjelmat
+
+Input: toimin mallina muotinäytöksissä ja esittelin vaatteita
+...skills output 1 (119.620): toimia mallina muotinäytöksissä
+...skills output 2 (107.878): opettaa asiakkaille muotitietoutta
+...skills output 3 (107.140): pysyä ajan tasalla puvustussuunnittelun kehityksestä
+...skills output 4 (106.445): esitellä vaatemalleja
+...skills output 5 (105.560): laatia puvustusluonnoksia
+...occupations output 1 (104.618): muotisuunnittelija
+...occupations output 2 (92.434): pukusuunnittelija
+...occupations output 3 (91.649): tuotekehitysjohtaja, vaateala
+...occupations output 4 (91.623): vaatesuunnittelija
+...occupations output 5 (89.211): henkilökohtainen pukeutumisneuvoja

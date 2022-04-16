@@ -1,0 +1,179 @@
+TOP-6 similarities of type "occupations" for utterance "ohjelmointia javalla ja pythonilla.":  
+  1 (0.2074): ohjelmistokehittäjä  
+  2 (0.1093): sulautettujen järjestelmien ohjelmistokehittäjä  
+  3 (0.1066): ohjelmoija, työkalujen ja prosessien numeerinen ohjaus  
+  4 (0.1037): lohkoketjukehittäjä  
+  5 (0.1011): tietokannan kehittäjä  
+  6 (0.0967): järjestelmän konfiguroija  
+TOP-6 similarities of type "targeted skills" for utterance "ohjelmointia javalla ja pythonilla.":  
+  1 (0.6440): Python (tietokoneohjelmointi)  
+  2 (0.3426): ICT-järjestelmän ohjelmointi  
+  3 (0.3361): käyttää komentokielistä ohjelmointia  
+  4 (0.3345): tietokoneohjelmointi  
+  5 (0.3192): verkko-ohjelmointi  
+  6 (0.3178): Java (tietokoneohjelmointi)  
+
+TOP-6 similarities of type "occupations" for utterance "Projektinhallintaa ja johtamista.":  
+  1 (0.2572): ICT-projektipäällikkö  
+  2 (0.2275): avustava hankepäällikkö  
+  3 (0.2174): ratainsinööri  
+  4 (0.1891): projektiassistentti  
+  5 (0.1383): projektipäällikkö, putkijohtokuljetusten ympäristövaikutukset  
+  6 (0.1066): treasury-toimintojen johtaja  
+TOP-6 similarities of type "targeted skills" for utterance "Projektinhallintaa ja johtamista.":  
+  1 (0.6891): projektinhallinnan periaatteet  
+  2 (0.6701): projektinhallinta  
+  3 (0.6399): ketterä projektinhallinta  
+  4 (0.5428): Lean-projektinhallinta  
+  5 (0.4262): projektin konfiguraationhallinta  
+  6 (0.3802): projektinhallinnan PM²-menetelmä  
+
+TOP-6 similarities of type "occupations" for utterance "ohjelmointia javalla ja pythonilla. Lisäksi osaan projektinhallintaa ja johtamista.":  
+  1 (0.1550): ICT-projektipäällikkö  
+  2 (0.1460): ohjelmistokehittäjä  
+  3 (0.1399): avustava hankepäällikkö  
+  4 (0.1320): ratainsinööri  
+  5 (0.1131): projektiassistentti  
+  6 (0.1083): osastonjohtaja  
+TOP-6 similarities of type "targeted skills" for utterance "ohjelmointia javalla ja pythonilla. Lisäksi osaan projektinhallintaa ja johtamista.":  
+  1 (0.4550): Python (tietokoneohjelmointi)  
+  2 (0.4173): projektinhallinnan periaatteet  
+  3 (0.4008): projektinhallinta  
+  4 (0.3828): ketterä projektinhallinta  
+  5 (0.3247): Lean-projektinhallinta  
+  6 (0.2571): projektin konfiguraationhallinta  
+
+TOP-6 similarities of type "occupations" for utterance "olen ollut postinjakajana ja lajittelijana.":  
+  1 (0.3866): postinlajittelija  
+  2 (0.2289): lajittelija, nahat  
+  3 (0.2217): ilmoitusten jakaja  
+  4 (0.2050): postinkantaja  
+  5 (0.1877): puutavaranlajittelija  
+  6 (0.1803): jätteiden lajittelija  
+TOP-6 similarities of type "targeted skills" for utterance "olen ollut postinjakajana ja lajittelijana.":  
+  1 (0.1571): käyttää postitustietojärjestelmiä  
+  2 (0.1277): järjestää postilähetysten toimittaminen  
+  3 (0.1223): käsitellä postia  
+  4 (0.0659): varmistaa postilähetysten eheys  
+  5 (0.0426): erottaa pakettityypit  
+  6 (0.0047): pitää kirjaa rahdista  
+
+TOP-6 similarities of type "occupations" for utterance "Osaan auttaa pyörätuolin käytössä":  
+  1 (0.1063): polkupyörälähetti  
+  2 (0.0872): polkupyöränkokooja  
+  3 (0.0862): polkupyörämekaanikko  
+  4 (0.0829): pyöröhioja  
+  5 (0.0820): moottoripyöräkouluttaja  
+  6 (0.0809): insinööri, pyörivät koneet ja laitteet  
+TOP-6 similarities of type "targeted skills" for utterance "Osaan auttaa pyörätuolin käytössä":  
+  1 (0.2581): neuvoa erikoisvälineiden käytössä päivittäisissä toimissa  
+  2 (0.2526): avustaa liikuntarajoitteisia matkustajia  
+  3 (0.2458): siirtää potilaita  
+  4 (0.2348): erikoisvälineiden käyttö päivittäisissä toimissa  
+  5 (0.2325): varmistaa, että ajoneuvoissa on esteettömyyslaitteisto  
+  6 (0.2212): antaa esteettömyysratkaisuihin liittyviä neuvoja  
+
+TOP-6 similarities of type "occupations" for utterance "autan potilaita liikkumisessa ja pöyrätuolin kanssa":  
+  1 (0.1088): potilastietojen käsittelijä  
+  2 (0.1009): paimen  
+  3 (0.0902): sosiaalityöntekijä, sairaalat  
+  4 (0.0895): tanssiterapeutti  
+  5 (0.0855): sairaanhoitaja, avustava hoito- ja hoivatyö  
+  6 (0.0850): potilastietojärjestelmävastaava  
+TOP-6 similarities of type "targeted skills" for utterance "autan potilaita liikkumisessa ja pöyrätuolin kanssa":  
+  1 (0.3061): ohjata liikkumisessa  
+  2 (0.2495): hallita eläinten liikkumista  
+  3 (0.2311): ihmisen anatomian ja liikkumisen välisen suhteen tutkimus  
+  4 (0.2216): siirtää potilaita  
+  5 (0.2103): avustaa henkilöitä liikkumisessa  
+  6 (0.1981): tarjota potilaille tukea perustoiminnoissa  
+
+TOP-6 similarities of type "occupations" for utterance "Olen ollut kirjakaupassa harjoittelijana":  
+  1 (0.4081): johtaja, kirjakauppa  
+  2 (0.2146): harjoittaja  
+  3 (0.1923): kirjamyyjä  
+  4 (0.1832): harjoittaja, tanssi  
+  5 (0.1306): kirjailija  
+  6 (0.1198): ostosuunnittelija  
+TOP-6 similarities of type "targeted skills" for utterance "Olen ollut kirjakaupassa harjoittelijana":  
+  1 (0.0780): myyntitoimet  
+  2 (0.0702): kirjallisuuden lajityypit  
+  3 (0.0569): pysyä ajan tasalla viimeisimmistä kirjajulkaisuista  
+  4 (0.0391): mainostaa uusia kirjajulkaisuja  
+  5 (0.0359): laatia hinnoittelustrategioita  
+  6 (0.0338): käyttää eri viestintäkanavia  
+
+TOP-6 similarities of type "occupations" for utterance "Työskentelin ennen päiväkodissa, niin ja koulun keittiöllä":  
+  1 (0.2508): lastenhoitaja, päiväkoti  
+  2 (0.2157): keittiöapulainen  
+  3 (0.2143): keittiöasentaja  
+  4 (0.1882): keittiöpäällikkö  
+  5 (0.1719): keittiöavustaja  
+  6 (0.1706): koulunkäynninohjaaja, esiopetus  
+TOP-6 similarities of type "targeted skills" for utterance "Työskentelin ennen päiväkodissa, niin ja koulun keittiöllä":  
+  1 (0.3681): päiväkodin käytännöt  
+  2 (0.2725): varmistaa keittiölaitteiden huolto  
+  3 (0.1829): valvoa keittiövarusteiden käyttöä  
+  4 (0.1805): avustaa koulun tapahtumien järjestämisessä  
+  5 (0.1737): valvoa tilattujen keittiötarvikkeiden saapumista  
+  6 (0.1706): peruskoulun ala-asteen käytännöt  
+
+TOP-6 similarities of type "occupations" for utterance "päiväkodissa hoitajana ja ohjaajana, sekä avustin keittiötä":  
+  1 (0.2565): lastenhoitaja, päiväkoti  
+  2 (0.1804): keittiöavustaja  
+  3 (0.1722): keittiöapulainen  
+  4 (0.1677): keittiöasentaja  
+  5 (0.1623): keittiöpäällikkö  
+  6 (0.1577): koulunkäynninohjaaja, esiopetus  
+TOP-6 similarities of type "targeted skills" for utterance "päiväkodissa hoitajana ja ohjaajana, sekä avustin keittiötä":  
+  1 (0.2943): päiväkodin käytännöt  
+  2 (0.1960): valvoa tilattujen keittiötarvikkeiden saapumista  
+  3 (0.1812): varastoida keittiötarvikkeita  
+  4 (0.1601): keskustella tuotannon ohjaajan kanssa  
+  5 (0.1577): valvoa keittiövarusteiden käyttöä  
+  6 (0.1552): toimia kuiskaajana esityksissä  
+
+TOP-6 similarities of type "occupations" for utterance "työskentelen tarjoilijana ravintolassa ja valmistan ruokaa":  
+  1 (0.4153): tarjoilija  
+  2 (0.2821): ravintolaisäntä/ravintolaemäntä  
+  3 (0.2574): ravintolapäällikkö  
+  4 (0.2293): ammatillinen opettaja, hotelli- ja ravintola-ala  
+  5 (0.1728): pikaravintolan työntekijä  
+  6 (0.1680): pikaravintolan tiiminjohtaja  
+TOP-6 similarities of type "targeted skills" for utterance "työskentelen tarjoilijana ravintolassa ja valmistan ruokaa":  
+  1 (0.3076): tarjoilla ruokaa pöytiin  
+  2 (0.2473): valmistella ravintola palvelukuntoon  
+  3 (0.1553): tarjoilla viinejä  
+  4 (0.1246): tarjoilla juomia  
+  5 (0.1172): ruokalistan ruoat ja juomat  
+  6 (0.1129): tarkastaa ruokasalin puhtaus  
+
+TOP-6 similarities of type "occupations" for utterance "asiantuntijaa, joka vastaa projektitoiminnan työkaluista, projektin- ja ohjelmajohtamisprosessista sekä niihin liittyvästä kehittämisestä.":  
+  1 (0.2405): ICT-projektipäällikkö  
+  2 (0.2001): prosessitekniikan asiantuntija  
+  3 (0.1915): projektiassistentti  
+  4 (0.1881): kemian prosessitekniikan asiantuntija  
+  5 (0.1621): prosessivalvonnan asiantuntija, vaatetusteollisuus  
+  6 (0.1613): asiantuntija, seuranta ja arviointi  
+TOP-6 similarities of type "targeted skills" for utterance "asiantuntijaa, joka vastaa projektitoiminnan työkaluista, projektin- ja ohjelmajohtamisprosessista sekä niihin liittyvästä kehittämisestä.":  
+  1 (0.3513): projektin konfiguraationhallinta  
+  2 (0.3358): projektinhallinnan periaatteet  
+  3 (0.3327): projektiolaitteet  
+  4 (0.3051): projektinhallinta  
+  5 (0.2983): luoda projektimääritykset  
+  6 (0.2949): suunnitella prosessi  
+
+TOP-6 similarities of type "occupations" for utterance "toimin mallina muotinäytöksissä ja esittelin vaatteita":  
+  1 (0.3215): malli  
+  2 (0.1645): muotisuunnittelija  
+  3 (0.1250): malliompelija  
+  4 (0.1158): muotintekijä  
+  5 (0.1118): CAD-piirtäjä, vaatteet  
+  6 (0.1093): ostaja, valmisvaatteet  
+TOP-6 similarities of type "targeted skills" for utterance "toimin mallina muotinäytöksissä ja esittelin vaatteita":  
+  1 (0.5020): toimia mallina muotinäytöksissä  
+  2 (0.2055): soveltaa muotitrendejä jalkineiden ja nahkatuotteiden valmistuksessa  
+  3 (0.1645): olla mallina taiteilijalle  
+  4 (0.1643): käsikirjoittamisen teoriat  
+  5 (0.1621): vaateompelu  
+  6 (0.1561): käyttää valaistuksen ohjaustaulua  
