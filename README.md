@@ -4,6 +4,8 @@ Experiments with ESCO to suggest skills and occupations in Finnish and English.
 The simplest approach is classic TF-IDF that applies hierachical structure of ESCO, i.e., occupation and broad skill are associated with lower-level skills. Despite simplicity, we get surprisingly good results as seen below. This is output of the example.
 Here "occupations" are most matching occupations and "targeted skills" most matched skills, either guided by occupations or not (depends on threshold level which is here 0.35). 
 
+PS. Original idea from: https://tyomarkkinatori.fi/blogit/vieraskyna-niittyla-tekoalyn-hyodyntaminen-tyopaikkojen-haussa
+
 ```
 ---------------- LANGUAGE = fin -------------------
 
